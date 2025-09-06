@@ -111,7 +111,7 @@ It covers:
     },
     {
         "id": 102,
-        "name": "Sara Khan",
+        "name": "Nahid Anjum",
         "skills": ["Java", "TestNG", "API Testing"],
         "experience": {
             "role": "QA Engineer",
