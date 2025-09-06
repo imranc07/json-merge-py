@@ -55,8 +55,8 @@ It covers:
 
 4.  Check the generated files:
 
-    -   `updated_data1.json`\
-    -   `updated_data2.json`\
+    -   `updated_data1.json`
+    -   `updated_data2.json`
     -   `merged_data.json`
 
 ------------------------------------------------------------------------
