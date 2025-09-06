@@ -1,0 +1,15 @@
+{
+    "id": 102,
+    "name": "Nahid Anjum",
+    "skills": [
+        "Java",
+        "TestNG",
+        "API Testing"
+    ],
+    "experience": {
+        "role": "QA Engineer",
+        "years": 2,
+        "company": "Never More"
+    },
+    "status": "rejected"
+}

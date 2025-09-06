@@ -1,0 +1,17 @@
+{
+    "id": 101,
+    "name": "Imran Ahmad",
+    "age": 37,
+    "city": "Aurangabad",
+    "skills": [
+        "Python",
+        "Selenium",
+        "PyTest"
+    ],
+    "experience": {
+        "role": "Automation Tester",
+        "years": 3,
+        "company": "Heaven of Freedom"
+    },
+    "status": "processed"
+}
